@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MatheusDevelop
 - 👀 In constant evolution
 - https://bdevblog.netlify.app/
+- https://www.youtube.com/channel/UCS20zS_6FBKmrS64PKmtmSQ
