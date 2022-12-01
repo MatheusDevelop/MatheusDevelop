@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatheusDevelop
-- 👀 In constant evolution
-- https://bdevblog.netlify.app/
-- https://www.youtube.com/channel/UCS20zS_6FBKmrS64PKmtmSQ
+Software analyst technician on SENAI Santa Cecilia, São Paulo.
+Future computer engineer.
+A entrepreuner, born to tech.
+
