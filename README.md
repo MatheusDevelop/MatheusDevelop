@@ -25,7 +25,9 @@ Sou um aprendiz contínuo e sempre estou explorando novas tecnologias e aprimora
       - Performance em processamento massivo de dados
       - Arquitetura de aplicações Batch
       - Contato com Open Source: Apache e comunidades Spring
-- **PL Fullstack Dev.** - *Iurem (Jurídico)* | *ClinicalUp (Saúde)*
+- **Freelancer .NET Dev *ClinicalUp (Saúde)*
+  - Manutenção e criação de features em .NET Legado
+- **PL Fullstack Dev.** - *Iurem (Jurídico)*
   - Atuação na arquitetura, integrando soluções com Microsoft Azure e Google Cloud Services.
   - Desenvolvimento utilizando MongoDB, ReactJS, React Native e .NET.
 - **JR .NET Dev.** - *Yellows Tech (Serviços T.I)*
