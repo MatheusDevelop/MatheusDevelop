@@ -2,8 +2,8 @@
 Sou um **Desenvolvedor Full-Stack** com mais de 5 anos de experiência, formado em Análise e Desenvolvimento de Sistemas pelo SENAI. Atuei em diversos setores, como jurídico, saúde, TI e mais, desenvolvendo soluções de alta qualidade e criando vínculos duradouros com clientes e equipes.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, HTML, CSS, C#
-- **Frameworks**: ReactJS, Angular, .NET, Tailwind, Bootstrap, SASS
+- **Linguagens**: JavaScript, Java, C#
+- **Frameworks**: ReactJS, React Native, Angular, .NET, Tailwind, Bootstrap, SASS
 - **Bancos de Dados e ORM**: MongoDB, Entity Framework, Dapper, SQL Server
 - **Cloud**: AWS, Azure, Google Cloud Services
 - **DevOps**: Docker, Kubernetes
